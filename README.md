@@ -1,2 +1,8 @@
 # veterinario-react
-Primer proyecto en React, utilicé Vite para crear el proyecto, y contiene LocalStorage para guardar en memoria
+# Primer proyecto en React: 
+
+- Utilicé Vite para crear el proyecto
+
+- Y utiliza LocalStorage para guardar en memoria
+
+Demo: https://adm-pacientes-veterinario.netlify.app/
