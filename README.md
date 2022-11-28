@@ -1,5 +1,7 @@
-# veterinario-react
+# Administrador de pacientes de Veterinario
 # Primer proyecto en React: 
+
+- Implementa useState y useEffect
 
 - Utilicé Vite para crear el proyecto
 
